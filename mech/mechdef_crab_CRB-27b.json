@@ -13,8 +13,7 @@
             "NotMarik",
             "NotSteiner",
             "NotMagistracyOfCanopus",
-            "NotTaurianConcordat",
-            "BLACKLISTED"
+            "NotTaurianConcordat"
         ],
         "tagSetSourceFile": ""
     },
@@ -22,7 +21,7 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 14730000,
-        "Rarity": 2,
+        "Rarity": 5,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,

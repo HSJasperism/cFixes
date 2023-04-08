@@ -4,6 +4,20 @@
         "UIName": "Black Knight BL-6b-KNT",
         "Details": "The Black Knight 6b was the harder-hitting, cooler-running Star League ancestor to the standard BL-7-KNT we have today. It did everything the 7 does, but better\u2014mostly thanks to its Double Heat Sinks, which are basically nonexistent these days."
     },
+    "MechTags": {
+        "items": [
+            "unit_mech",
+            "unit_heavy",
+            "unit_release",
+            "unit_ready",
+            "unit_lance_tank",
+            "unit_role_brawler",
+            "unit_speed_low",
+            "unit_hot",
+            "unit_range_long"
+        ],
+        "tagSetSourceFile": ""
+    },
     "simGameMechPartCost": 2240000,
     "inventory": [
         {

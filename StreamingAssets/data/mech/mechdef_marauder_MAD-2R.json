@@ -72,5 +72,26 @@
             "AssignedArmor": 100,
             "AssignedRearArmor": -1
         }
-    ]
+    ],
+    "MechTags": {
+        "items": [
+            "unit_mech",
+            "unit_heavy",
+            "unit_release",
+            "unit_ready",
+            "unit_role_sniper",
+            "unit_range_long",
+            "unit_hot",
+            "unit_speed_low",
+            "unit_common",
+            "Davion",
+            "Kurita",
+            "Liao",
+            "Marik",
+            "Steiner",
+            "MagistracyOfCanopus",
+            "TaurianConcordat"
+        ],
+        "tagSetSourceFile": ""
+    }
 }

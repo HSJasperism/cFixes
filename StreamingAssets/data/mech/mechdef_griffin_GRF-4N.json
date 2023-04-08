@@ -8,15 +8,13 @@
             "unit_lance_support",
             "unit_lance_vanguard",
             "unit_role_sniper",
-            "BLACKLISTED",
             "Davion",
             "Kurita",
             "NotLiao",
             "Marik",
             "Steiner",
             "MagistracyOfCanopus",
-            "TaurianConcordat",
-            "unit_common"
+            "TaurianConcordat"
         ]
     },
     "inventory": [
